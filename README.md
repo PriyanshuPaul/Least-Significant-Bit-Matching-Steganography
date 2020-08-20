@@ -1,0 +1,3 @@
+# Least-Significant-Bit-Matching-Steganography
+Steganography is the method of hiding secret data inside any form of digital media. The main idea behind steganography is to hide the existence of data in any medium like audio, video, image, etc. When we talk about image steganography, the idea is quite simple. Images are made up of pixels which usually refer to the color of that particular pixel. In a greyscale (black and white) image, these pixel values range from 0-255, 0 being black and 255 being white.
+These project contains the work done in the firld of steganography by matching the bits and replacing them.
